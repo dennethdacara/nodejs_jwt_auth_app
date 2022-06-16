@@ -1,0 +1,12 @@
+node_modules
+.env
+
+controllers/old_authController.js
+controllers/old_employeesController.js
+controllers/old_registerController.js
+
+model/employees.json
+model/users.json
+
+old_server.js
+

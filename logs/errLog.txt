@@ -1,0 +1,2 @@
+20220616	00:23:04	85e0b885-4359-4559-981c-dbf39bc4f972	Error: ENOENT: no such file or directory, stat 'C:\laragon\www\freelance\node-js-projects\node-mvc\routes\views\index.html'
+20220616	01:05:22	eda7395c-3720-4f8f-a897-ccff500103d9	SyntaxError: Unexpected end of JSON input
