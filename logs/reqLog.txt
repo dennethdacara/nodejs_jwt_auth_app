@@ -924,3 +924,7 @@
 
 20220617	00:38:15	2cb52692-7d57-4eff-9455-67050964cfa2	GET	undefined	/refresh
 
+20220617	00:41:27	be61f1fc-cd16-455b-be8b-f12abd17a906	POST	undefined	/auth
+
+20220617	00:43:15	1b1ba608-228a-4f23-b50c-520a5e780868	GET	undefined	/refresh
+
